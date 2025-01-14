@@ -11,7 +11,7 @@ Here you'll find the code for the project "Opinion Mining for Twitter" developed
 1. Clone the repository
 2. Enter the repository folder
 ```bash
-cd opinion-mining-twitter
+cd opinion-mining-for-twitter
 ```
 3. Run the following command:
 ```bash
